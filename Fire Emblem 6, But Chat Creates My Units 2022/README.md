@@ -85,7 +85,6 @@
 </p>
 <p align="center">
   <img src="593B4019-ED81-40E4-977F-57901E69E300.gif" width="30%">
-
   <img src="5c94e8cfa04a0.jpeg" width="30%">
   <img src="619C423F-7999-48B2-A2F7-FC8558B04F30.gif" width="30%">
   <img src="6ab40503ly1h0ku3ghb49j20zk1hc7wh.jpg" width="30%">
