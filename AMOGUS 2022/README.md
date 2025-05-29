@@ -4,8 +4,6 @@
   <img src="0_Bethanymeme.jpg" width="30%">
   <img src="0_meme (1).jpg" width="30%">
   <img src="0_meme.jpg" width="30%">
-</p>
-<p align="center">
   <img src="1648478780920.png" width="30%">
   <img src="1648479466553.png" width="30%">
   <img src="1648479673829.png" width="30%">
