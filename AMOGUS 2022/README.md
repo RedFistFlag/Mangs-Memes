@@ -13,7 +13,7 @@
 <p align="center">
   <img src="AmongBirmingham.png" width="30%">
   <img src="FB_IMG_1632071196548-1.jpg" width="30%">
-  <img src="Golemangs20%Takes20%Over.png" width="30%">
+  <img src="Golemangs Takes Over.png" width="30%">
 </p>
 <p align="center">
   <img src="IMG_4409.jpg" width="30%">
