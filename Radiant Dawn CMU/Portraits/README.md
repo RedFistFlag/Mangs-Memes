@@ -161,4 +161,15 @@
 <p align="center">
   <img src="the_wall_7-removebg-preview.png" width="30%">
   <img src="waylord_2-removebg-preview.png" width="30%">
+  <img src="Claire.png" width="30%">
+  </p>
+<p align="center">
+  <img src="Eclair.png" width="30%">
+  <img src="Grim.png" width="30%">
+  <img src="KAMEK2.png" width="30%">
+  </p>
+<p align="center">
+  <img src="Luna.png" width="30%">
+  <img src="Shuusuke2.png" width="30%">
+  </p>
 </p>
