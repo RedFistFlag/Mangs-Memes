@@ -1,20 +1,12 @@
 <p align="center">
   <img src="1.png" width="30%">
-</p>
 
-<p align="center">
   <img src="1000025356.jpg" width="30%">
-</p>
 
-<p align="center">
   <img src="1000075564.jpg" width="30%">
-</p>
 
-<p align="center">
   <img src="1000075565.jpg" width="30%">
-</p>
 
-<p align="center">
   <img src="35 drop meme.jpg" width="30%">
 </p>
 
