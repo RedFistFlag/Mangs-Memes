@@ -92,7 +92,38 @@
   <img src="image.png" width="30%">
   <img src="mail-part.png" width="30%">
   <img src="piss.png" width="30%">
+  <img src="stop saying brave.png" width="30%">
+  <img src="grayside miss cliqq.png" width="30%">
+  <img src="scetch art.png" width="30%">
+  <img src="dimitri at home.png" width="30%">
+  <img src="piss.png" width="30%">
+  <img src="balaned egg.png" width="30%">
+  <img src="full retard egg.png" width="30%">
+  <img src="canned bread.png" width="30%">
+  <img src="phophecy of the twerk.png" width="30%">
+  </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </p>
-<p align="center">
+
   <img src="potetial_man_varg.png" width="30%">
 </p>

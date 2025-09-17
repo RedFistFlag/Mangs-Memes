@@ -75,6 +75,7 @@
   <img src="Lyca_10-removebg-preview.webp" width="30%">
   <img src="Mai_final-removebg-preview.png" width="30%">
   <img src="Micaiah.webp" width="30%">
+  <img src="Moose_2.1_clear.png" width="30%">
   <img src="Miss_No_text-QR.png" width="30%">
   <img src="Mormay-removebg-preview.png" width="30%">
   <img src="Nihilister.png" width="30%">
