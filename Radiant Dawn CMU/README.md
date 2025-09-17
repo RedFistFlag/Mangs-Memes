@@ -100,7 +100,20 @@
   <img src="balaned egg.png" width="30%">
   <img src="full retard egg.png" width="30%">
   <img src="canned bread.png" width="30%">
-  <img src="phophecy of the twerk.png" width="30%">
+  <img src="360截图20250914203242.jpg" width="30%">
+  <img src="1000007613.jpg" width="30%">
+  <img src="1000007730.jpg" width="30%">
+  <img src="1000016655.jpg" width="30%">
+  <img src="1000016656.jpg" width="30%">
+  <img src="1000079003.jpg" width="30%">
+  <img src="a5w4uh.jpg" width="30%">
+  <img src="idk.png" width="30%">
+  <img src="IMG_4605.png" width="30%">
+  <img src="Mangs monke meme.png" width="30%">
+  <img src="Myrielle3.png" width="30%">
+  <img src="PH.png" width="30%">
+  <img src="Romato needs memes.png" width="30%">
+  <img src="TriangleStrategyMeme.png" width="30%">
   </p>
 
 
