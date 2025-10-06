@@ -8,7 +8,6 @@
   <img src="Marni.png" width="30%">
   <img src="Mauvier.png" width="30%">
   <img src="Pablo.png" width="30%">
-  <img src="Raquiel.png" width="30%">
   <img src="Senator Armstrong.png" width="30%">
   <img src="Shadow.png" width="30%">
   <img src="Solomon.png" width="30%">
