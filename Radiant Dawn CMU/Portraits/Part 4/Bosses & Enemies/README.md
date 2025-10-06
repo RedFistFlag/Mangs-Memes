@@ -17,7 +17,7 @@
   <img src="Kelik.png" width="30%">
   <img src="Lalo.png" width="30%">
   <img src="Lute.png" width="30%">
-  <img src="Mind Goblin.png" width="30%">
+  <img src="Mind goblin.png" width="30%">
   <img src="Monkey.png" width="30%">
   <img src="Nihilister.png" width="30%">
   <img src="Nishitani.png" width="30%">
