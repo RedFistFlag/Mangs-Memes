@@ -1,12 +1,12 @@
 <p align="center">
   <img src="Bonechill.png" width="30%">
   <img src="Bulker.png" width="30%">
-  <img src="Corvid.png" width="30%">
+  <img src="Corvid19.png" width="30%">
   <img src="Elka Sir.png" width="30%">
   <img src="Falcon.png" width="30%">
   <img src="Farina.png" width="30%">
   <img src="Garithos.png" width="30%">
-  <img src="Gun Merchant.png" width="30%">
+  <img src="Gun merchant.png" width="30%">
   <img src="Lakina.png" width="30%">
   <img src="Madik Tubyg.png" width="30%">
   <img src="Micaiah.png" width="30%">
