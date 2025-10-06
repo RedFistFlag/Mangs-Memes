@@ -8,5 +8,5 @@
   <img src="Penelope.png" width="30%">
   <img src="Shirtless Tana.png" width="30%">
   <img src="Tambo.png" width="30%">
-  <img src="Troll PH.png" width="30%">
+  <img src="Troll PH.gif" width="30%">
 </p>
