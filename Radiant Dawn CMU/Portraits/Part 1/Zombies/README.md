@@ -3,7 +3,7 @@
   <img src="Corvid19 Zombie.png" width="30%">
   <img src="Elka Sir Zombie.png" width="30%">
   <img src="Falcon Zombie.png" width="30%">
-  <img src="Farina Zombie.png" width="30%">
+  <img src="Farina Zombie.jpeg" width="30%">
   <img src="Garithos Zombie.png" width="30%">
   <img src="Micaiah Zombie.png" width="30%">
   <img src="Phillevey Zombie.png" width="30%">
