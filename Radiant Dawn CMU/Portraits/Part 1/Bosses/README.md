@@ -5,7 +5,7 @@
   <img src="Batta.png" width="30%">
   <img src="Carnec.png" width="30%">
   <img src="Dakitty.png" width="30%">
-  <img src="Fandy Lamar.png" width="30%">
+  <img src="Fancy Lamar.png" width="30%">
   <img src="Josephine.png" width="30%">
   <img src="Mormay.png" width="30%">
   <img src="REAL LEGO.png" width="30%">
