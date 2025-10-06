@@ -5,7 +5,7 @@
   <img src="Belle.png" width="30%">
   <img src="Bethany.png" width="30%">
   <img src="Bonkers.png" width="30%">
-  <img src="Caroline.png" width="30%">
+  <img src="Carolina.png" width="30%">
   <img src="Cyrus.png" width="30%">
   <img src="Finna.png" width="30%">
   <img src="Homo tiger.png" width="30%">
