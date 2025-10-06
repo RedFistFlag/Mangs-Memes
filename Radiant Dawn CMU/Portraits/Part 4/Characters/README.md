@@ -1,6 +1,6 @@
 <p align="center">
   <img src="Alpha.png" width="30%">
-  <img src="Barbieh.png" width="30%">
+  <img src="Barbie.png" width="30%">
   <img src="Ben Drankin.png" width="30%">
   <img src="Colette.png" width="30%">
   <img src="Ho'ol.png" width="30%">
